@@ -1,1 +1,1 @@
-# ACubeSat0
+# AcubeSAT0
